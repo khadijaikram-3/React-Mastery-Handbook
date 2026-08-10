@@ -1,9 +1,9 @@
 # React Mastery Handbook — Chai aur React
 
-## 📌 Overview
+##  Overview
 Complete React notes covering **13 projects** from the Chai aur React series by Hitesh Choudhary.
 
-## 📚 Table of Contents
+##  Table of Contents
 
 ### Part 1: React Basics
 | # | Project | Key Concepts | Link |
@@ -26,14 +26,19 @@ Complete React notes covering **13 projects** from the Chai aur React series by 
 | 12 | 12MegaBlog | Full Stack CRUD | [Notes](02-projects-chai/12MegaBlog.md) |
 | 13 | customReact | Custom Renderer | [Notes](02-projects-chai/customReact.md) |
 
-## 🎯 Interview-Ready Concepts
-- 🎯 **Virtual DOM & Reconciliation** — How React updates the DOM efficiently
-- 🎯 **useState vs useReducer** — When to use which
-- 🎯 **useEffect dependency array** — Empty vs specific vs no array
-- 🎯 **Context API vs Redux** — When to use Context vs Redux
-- 🎯 **Controlled vs Uncontrolled Components** — Form handling
-- 🎯 **Derived State** — Calculating state during render
-- 🎯 **Lazy State Initialization** — `useState(() => expensiveComputation())`
+### Part 3: Glossary
+| Topic | Link |
+|-------|------|
+| React Glossary (Core Concepts, Hooks, API, Performance, Patterns) | [View Glossary](03-glossary/react-glossary.md) |
+
+##  Interview-Ready Concepts
+-  **Virtual DOM & Reconciliation** — How React updates the DOM efficiently
+-  **useState vs useReducer** — When to use which
+-  **useEffect dependency array** — Empty vs specific vs no array
+-  **Context API vs Redux** — When to use Context vs Redux
+-  **Controlled vs Uncontrolled Components** — Form handling
+-  **Derived State** — Calculating state during render
+-  **Lazy State Initialization** — `useState(() => expensiveComputation())`
 
 ---
 
