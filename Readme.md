@@ -1,7 +1,7 @@
-# React Mastery Handbook
+# React Mastery Handbook — Chai aur React
 
 ## 📌 Overview
-Complete React notes covering **19 projects** from Chai aur React and FreeCodeCamp. This handbook is designed to take you from absolute beginner to building real-world applications.
+Complete React notes covering **13 projects** from the Chai aur React series by Hitesh Choudhary.
 
 ## 📚 Table of Contents
 
@@ -25,21 +25,6 @@ Complete React notes covering **19 projects** from Chai aur React and FreeCodeCa
 | 11 | 10todocontextLocal | Context + localStorage | [Notes](02-projects-chai/10todocontextLocal.md) |
 | 12 | 12MegaBlog | Full Stack CRUD | [Notes](02-projects-chai/12MegaBlog.md) |
 | 13 | customReact | Custom Renderer | [Notes](02-projects-chai/customReact.md) |
-
-### Part 3: FreeCodeCamp Projects
-| # | Project | Key Concepts | Link |
-|---|---------|--------------|------|
-| 14 | React Facts | Static Components | [Notes](03-projects-fcc/React-Facts.md) |
-| 15 | Travel Journal | Props, Data-Driven | [Notes](03-projects-fcc/Travel-Journal.md) |
-| 16 | Chef Claude | Form Actions, AI API | [Notes](03-projects-fcc/Chef-Claude.md) |
-| 17 | Meme Generator | useEffect, API | [Notes](03-projects-fcc/Meme-Generator.md) |
-| 18 | Tenzies | Derived State | [Notes](03-projects-fcc/Tenzies.md) |
-| 19 | Assembly Endgame | A11y, useRef | [Notes](03-projects-fcc/Assembly-Endgame.md) |
-
-### Part 4: Glossary
-- [React Glossary](04-glossary/react-glossary.md)
-
----
 
 ## 🎯 Interview-Ready Concepts
 - 🎯 **Virtual DOM & Reconciliation** — How React updates the DOM efficiently
